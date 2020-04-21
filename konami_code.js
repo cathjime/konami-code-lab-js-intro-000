@@ -31,19 +31,4 @@ function init() {
     }
 )}
 
-// function onKeyDownHandler(e) {
-//   const key = e.key;
-  
-//   let index = 0;
- 
- 
-//   } else {
-//     index = 0;
-//   }
-// }
 
-// const input = document.querySelector('input');
- 
-// input.addEventListener('keydown', function(e) {
-//   console.log(e.key);
-// });
